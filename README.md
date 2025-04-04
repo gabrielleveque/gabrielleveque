@@ -38,7 +38,7 @@ Welcome to my GitHub profile!
 #### **📊 Testing**
 ![Criterion](https://img.shields.io/badge/Criterion-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=flat-square&logo=mocha&logoColor=white)
 
 ---
 
