@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
 #### **☁️ Cloud & DevOps**
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![AWS Route53](https://img.shields.io/badge/AWS_Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-232F3E?style=flat-square&logo=amazoncloudfront&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -37,10 +37,9 @@ Welcome to my GitHub profile!
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 #### **📊 Testing**
-![Criterion](https://img.shields.io/badge/Criterion-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![C/C++ Criterion](https://img.shields.io/badge/C/C++_Criterion-00599C?style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=flat-square&logo=mocha&logoColor=white)
-
+![Supertest](https://img.shields.io/badge/Supertest-339933?style=flat-square&logo=node.js&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
