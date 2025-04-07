@@ -4,6 +4,8 @@ Welcome to my GitHub profile!
 
 ---
 
+//TODO add GITHUB NOTION POSTMAN JENKINS ANTDESIGN
+
 ### **🛠️ Technical Skills**  
 
 #### **📜 Languages**  
@@ -40,11 +42,6 @@ Welcome to my GitHub profile!
 ![C/C++ Criterion](https://img.shields.io/badge/C/C++_Criterion-00599C?style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-339933?style=flat-square&logo=node.js&logoColor=white)
----
-
-### 🚀 Featured Projects
-
-🔹 [**Tower Defense in C++**](https://github.com/Azurioh/epitech-game-jam-february) - A Tower Defense game developed in C++ during an Epitech jam.
 
 ---
 
