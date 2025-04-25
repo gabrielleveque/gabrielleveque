@@ -4,11 +4,9 @@ Welcome to my GitHub profile!
 
 ---
 
-//TODO add GITHUB NOTION POSTMAN JENKINS ANTDESIGN
+### **🛠️ Technical Skills**
 
-### **🛠️ Technical Skills**  
-
-#### **📜 Languages**  
+#### **📜 Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assembly&logoColor=white)
@@ -20,6 +18,7 @@ Welcome to my GitHub profile!
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 
 #### **☁️ Cloud & DevOps**
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
@@ -37,11 +36,17 @@ Welcome to my GitHub profile!
 
 #### **⚙️ CI/CD**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 #### **📊 Testing**
 ![C/C++ Criterion](https://img.shields.io/badge/C/C++_Criterion-00599C?style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-339933?style=flat-square&logo=node.js&logoColor=white)
+
+#### **🛠️ Tools & Platforms**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
